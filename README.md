@@ -83,3 +83,7 @@ Lets_Connect()
     <img width="38" height="38" src="https://icon.icepanel.io/Technology/svg/Postman.svg">&nbsp;&nbsp;
     
 <hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharan-vj&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-vj&langs_count=8)
