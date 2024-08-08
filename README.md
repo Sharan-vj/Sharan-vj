@@ -44,7 +44,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<h3> ᴍʟᴏᴘꜱ ᴛᴏᴏʟꜱ & ᴄʟᴏᴜᴅ ᴘʟᴀᴛꜰᴏʀᴍꜱ </h3>
+<h3> ᴍʟᴏᴘꜱ & DevOps Tools </h3>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
