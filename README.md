@@ -1,7 +1,7 @@
 <h2><center> 😀 ʜɪ ᴛʜᴇʀᴇ 😀</center></h2>
 
 <!-- Intro -->
-<p align='justify'> Welcome to my GitHub profile! I'm Sharan Vj, a passionate AI/ML Engineer and tech enthusiast. I'm always excited to explore new ideas, learn from others, and share my knowledge with the community. With a strong background in computer science and a keen interest in artificial intelligence, machine learning, and data science, I'm constantly seeking innovative solutions to real-world problems. My projects often involve natural language processing, computer vision, and Generative AI, and I'm always looking for opportunities to collaborate with like-minded individuals. Feel free to browse my repositories, and let's connect if you share similar interests! 😊</p>
+<p align='justify'> Welcome to my GitHub profile! I'm Sharan Vj, a passionate AI/ML Engineer and tech enthusiast. I'm always excited to explore new ideas, learn from others, and share my knowledge with the community. With a strong background in computer science and a keen interest in artificial intelligence, machine learning, and data science, I'm constantly seeking innovative solutions to real-world problems. My projects often involve machine learning, deep learning, natural language processing, computer vision, and Generative AI, and I'm always looking for opportunities to collaborate with like-minded individuals. Feel free to browse my repositories, and let's connect if you share similar interests! 😊</p>
 
 <!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-vj)
@@ -16,7 +16,6 @@
 👉 Building innovative projects to solve real-world problems.<br>
 👉 Learning from online courses, books, and research papers.<br>
 👉 Engaging with the community to share knowledge and ideas.<br>
-👉 Looking for Entry level AI/ML Engineer roles.
 <hr>
 
 <h3><center> ᴛᴇᴄʜɴɪᴄᴀʟ ᴇxᴘᴇʀᴛɪꜱᴇ </center></h3>
