@@ -5,8 +5,6 @@
 
 <!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-vj)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sharan_vj__)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sharanvj)
 [![](https://visitcount.itsvg.in/api?id=Sharan-vj&icon=8&color=1)](https://visitcount.itsvg.in)
 <hr>
 
